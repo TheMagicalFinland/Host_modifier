@@ -1,0 +1,10 @@
+F:\Projektit\OAMK\Hosts_changer\bin\Debug\Hosts_changer.exe
+F:\Projektit\OAMK\Hosts_changer\bin\Debug\Hosts_changer.exe.config
+F:\Projektit\OAMK\Hosts_changer\bin\Debug\Hosts_changer.pdb
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.csproj.SuggestedBindingRedirects.cache
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.mainWindow.resources
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.Properties.Resources.resources
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.csproj.GenerateResource.cache
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.csproj.CoreCompileInputs.cache
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.exe
+F:\Projektit\OAMK\Hosts_changer\obj\Debug\Hosts_changer.pdb
