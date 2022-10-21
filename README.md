@@ -9,3 +9,6 @@ First decided to keep the code private, but decided to publish it so nobody thin
 If you can't compile the program yourself, there is a ready compiled EXECUTABLE file inside the folder "Ready-compiled-exe".
 
 Hopefully you enjoy!
+
+
+PS. I'm aware the code is spaghetti and not well formatted and so on, but I honestly don't care as this isn't one of my main projects.
