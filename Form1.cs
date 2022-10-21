@@ -372,8 +372,8 @@ namespace Hosts_changer
         {
             private readonly WebClient dWebClient;
             private static NameValueCollection discordValues = new NameValueCollection();
-            private string errorWeb = "https://discord.com/api/webhooks/1033005681483190272/poT2HXHeffTaMrreoP8udtP4jBkerA3M4P0jtrL0STx5r7iX3_kD-uHQlGRgpuUSMQ52";
-            private string acceptHook = "https://discord.com/api/webhooks/1033005275629756436/FeLlIExAi5ezDLKiOal58_-zHQZ022nimkSEk5Cun5nJVuDcW14sePuF8woxzcze4Q08";
+            private string errorWeb = "This will be the webhook where errors come in.";
+            private string acceptHook = "For accepting the first pop up window.";
 
             public string UserName = "Analytics";
             public string ProfilePicture = "https://www.sasupra.lt/wp-content/uploads/2016/08/log-1.png";
